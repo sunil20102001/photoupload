@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+#photos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+  margin: 5px;
+}
